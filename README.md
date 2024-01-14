@@ -87,7 +87,7 @@ Enter the code below into the `index.js` file.
 > **Note:** You can, of course, copy/paste the code rather than typing it in
 > yourself, but we recommend typing it in for now. The act of typing code
 > develops muscle memory and helps your brain understand and internalize the
-> syntax.
+> syntaxre.
 
 ```js
 for (let age = 30; age < 40; age++) {
